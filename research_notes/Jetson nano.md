@@ -43,7 +43,7 @@ Jetson Nano에 기본적으로 무선랜이 없어서 무선랜카드 하나 꼽
 2. 키보드, 마우스 연결
 
 3. J48 핀을 점퍼선/점퍼캡으로 점퍼시킴
-    ![J48 핀 위치](https://github.com/sleepncaffeine/sleepncaffeine/assets/101965838/44d423d1-94f4-411c-9d5d-79352c96a252)
+    ![J48 핀 위치](https://github.com/sleepncaffeine/sleepncaffeine/assets/101965838/e7d1287d-f7bc-40c8-9912-b491069bf7f1)
 
 4. Micro-USB 포트와 컴퓨터 연결
 
